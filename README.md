@@ -1,3 +1,12 @@
+## Running it
+
+    make
+    # in one window:
+    ./listener.coffee
+    # in second window:
+    ./talker.coffee input_file 7000,7001,7002,7003 200
+
+
 
 ## Problem
 
