@@ -1,0 +1,16 @@
+{
+  "name": "NetDemo",
+  "version": "0.0.0",
+  "description": "=== Design Discussion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "*"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
